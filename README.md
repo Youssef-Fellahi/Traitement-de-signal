@@ -1,2 +1,2 @@
 # Traitement-de-signal
-Le projet vise à explorer l'analyse des signaux spectraux, la transformée de Fourier discrète, la synthèse et l'analyse spectrale d'une plage de gammes musicales, le traitement des signaux ECG et les techniques de filtrage analogique.
+Bienvenue sur mon projet de traitement de signal ! Dans ce projet, je m'intéresse à l'analyse des signaux spectraux et à la transformée de Fourier discrète. Je m'intéresse également à la synthèse et à l'analyse spectrale d'une plage de gammes musicales, ainsi qu'au traitement des signaux ECG et aux techniques de filtrage analogique, tous les traitements et applications sont effectués par le langage matlab. Rejoignez-moi pour explorer le domaine passionnant du traitement de signal.
